@@ -15,12 +15,5 @@ Pour la configuration---------
 
 
 
-
-
-
-
-
-
-
 licence
 Pour la licence elle est gratuite
